@@ -1,0 +1,19 @@
+.head{
+    background-color:lightblue;
+    justify-content: center;
+}
+.body{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: lightgray;
+}
+.origami{
+    justify-content:center;
+    border:solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color:white;
+    padding: 30px;
+    margin: 80px;
+    width: 310px;
+}
